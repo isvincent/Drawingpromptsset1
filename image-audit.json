@@ -1,0 +1,1211 @@
+{
+  "total": 150,
+  "sourceTextPreserved": true,
+  "sourceSha256": "001228406ff73f080b5b63e407bc5ed56bc9fcc407200092acf6b46e00b4b656",
+  "complete": 150,
+  "missing": [],
+  "uniqueImageHashes": 150,
+  "totalImageBytes": 31077460,
+  "images": [
+    {
+      "id": "01-A",
+      "width": 1122,
+      "height": 1402,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 162542
+    },
+    {
+      "id": "01-B",
+      "width": 1122,
+      "height": 1402,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 368312
+    },
+    {
+      "id": "01-C",
+      "width": 1254,
+      "height": 1254,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 153206
+    },
+    {
+      "id": "02-A",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 161650
+    },
+    {
+      "id": "02-B",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 195280
+    },
+    {
+      "id": "02-C",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 210390
+    },
+    {
+      "id": "03-A",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 151172
+    },
+    {
+      "id": "03-B",
+      "width": 2172,
+      "height": 724,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 102274
+    },
+    {
+      "id": "03-C",
+      "width": 1122,
+      "height": 1402,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 196864
+    },
+    {
+      "id": "04-A",
+      "width": 1054,
+      "height": 1492,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 241900
+    },
+    {
+      "id": "04-B",
+      "width": 1054,
+      "height": 1492,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 258742
+    },
+    {
+      "id": "04-C",
+      "width": 1054,
+      "height": 1492,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 563122
+    },
+    {
+      "id": "05-A",
+      "width": 1122,
+      "height": 1402,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 99716
+    },
+    {
+      "id": "05-B",
+      "width": 1122,
+      "height": 1402,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 116210
+    },
+    {
+      "id": "05-C",
+      "width": 1122,
+      "height": 1402,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 151998
+    },
+    {
+      "id": "06-A",
+      "width": 1254,
+      "height": 1254,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 53118
+    },
+    {
+      "id": "06-B",
+      "width": 1254,
+      "height": 1254,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 131922
+    },
+    {
+      "id": "06-C",
+      "width": 1254,
+      "height": 1254,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 102348
+    },
+    {
+      "id": "07-A",
+      "width": 1122,
+      "height": 1402,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 131400
+    },
+    {
+      "id": "07-B",
+      "width": 1122,
+      "height": 1402,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 170380
+    },
+    {
+      "id": "07-C",
+      "width": 1254,
+      "height": 1254,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 128314
+    },
+    {
+      "id": "08-A",
+      "width": 1122,
+      "height": 1402,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 138304
+    },
+    {
+      "id": "08-B",
+      "width": 1254,
+      "height": 1254,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 162522
+    },
+    {
+      "id": "08-C",
+      "width": 1122,
+      "height": 1402,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 106532
+    },
+    {
+      "id": "09-A",
+      "width": 1122,
+      "height": 1402,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 117610
+    },
+    {
+      "id": "09-B",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 116146
+    },
+    {
+      "id": "09-C",
+      "width": 1254,
+      "height": 1254,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 148038
+    },
+    {
+      "id": "10-A",
+      "width": 1122,
+      "height": 1402,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 197812
+    },
+    {
+      "id": "10-B",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 189276
+    },
+    {
+      "id": "10-C",
+      "width": 1254,
+      "height": 1254,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 92364
+    },
+    {
+      "id": "11-A",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 86018
+    },
+    {
+      "id": "11-B",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 124036
+    },
+    {
+      "id": "11-C",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 245034
+    },
+    {
+      "id": "12-A",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 149142
+    },
+    {
+      "id": "12-B",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 175038
+    },
+    {
+      "id": "12-C",
+      "width": 1254,
+      "height": 1254,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 75292
+    },
+    {
+      "id": "13-A",
+      "width": 1254,
+      "height": 1254,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 41456
+    },
+    {
+      "id": "13-B",
+      "width": 1254,
+      "height": 1254,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 44386
+    },
+    {
+      "id": "13-C",
+      "width": 1254,
+      "height": 1254,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 74798
+    },
+    {
+      "id": "14-A",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 136404
+    },
+    {
+      "id": "14-B",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 162678
+    },
+    {
+      "id": "14-C",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 87706
+    },
+    {
+      "id": "15-A",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 203752
+    },
+    {
+      "id": "15-B",
+      "width": 1054,
+      "height": 1492,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 356856
+    },
+    {
+      "id": "15-C",
+      "width": 1122,
+      "height": 1402,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 199800
+    },
+    {
+      "id": "16-A",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 95690
+    },
+    {
+      "id": "16-B",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 170970
+    },
+    {
+      "id": "16-C",
+      "width": 1122,
+      "height": 1402,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 107626
+    },
+    {
+      "id": "17-A",
+      "width": 1122,
+      "height": 1402,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 156026
+    },
+    {
+      "id": "17-B",
+      "width": 1254,
+      "height": 1254,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 154146
+    },
+    {
+      "id": "17-C",
+      "width": 1055,
+      "height": 1491,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 160144
+    },
+    {
+      "id": "18-A",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 107270
+    },
+    {
+      "id": "18-B",
+      "width": 1054,
+      "height": 1492,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 193702
+    },
+    {
+      "id": "18-C",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 87406
+    },
+    {
+      "id": "19-A",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 97014
+    },
+    {
+      "id": "19-B",
+      "width": 1054,
+      "height": 1492,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 129072
+    },
+    {
+      "id": "19-C",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 112430
+    },
+    {
+      "id": "20-A",
+      "width": 1054,
+      "height": 1492,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 111282
+    },
+    {
+      "id": "20-B",
+      "width": 1122,
+      "height": 1402,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 143726
+    },
+    {
+      "id": "20-C",
+      "width": 1054,
+      "height": 1492,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 172886
+    },
+    {
+      "id": "21-A",
+      "width": 1054,
+      "height": 1492,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 191496
+    },
+    {
+      "id": "21-B",
+      "width": 1055,
+      "height": 1491,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 167726
+    },
+    {
+      "id": "21-C",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 242836
+    },
+    {
+      "id": "22-A",
+      "width": 1055,
+      "height": 1491,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 221160
+    },
+    {
+      "id": "22-B",
+      "width": 1055,
+      "height": 1491,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 458922
+    },
+    {
+      "id": "22-C",
+      "width": 1122,
+      "height": 1402,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 236230
+    },
+    {
+      "id": "23-A",
+      "width": 1054,
+      "height": 1492,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 160512
+    },
+    {
+      "id": "23-B",
+      "width": 1054,
+      "height": 1492,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 205450
+    },
+    {
+      "id": "23-C",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 164472
+    },
+    {
+      "id": "24-A",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 487668
+    },
+    {
+      "id": "24-B",
+      "width": 1054,
+      "height": 1492,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 454818
+    },
+    {
+      "id": "24-C",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 268130
+    },
+    {
+      "id": "25-A",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 408202
+    },
+    {
+      "id": "25-B",
+      "width": 1254,
+      "height": 1254,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 460554
+    },
+    {
+      "id": "25-C",
+      "width": 1672,
+      "height": 941,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 521192
+    },
+    {
+      "id": "26-A",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 76234
+    },
+    {
+      "id": "26-B",
+      "width": 1122,
+      "height": 1402,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 214552
+    },
+    {
+      "id": "26-C",
+      "width": 1491,
+      "height": 1055,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 62292
+    },
+    {
+      "id": "27-A",
+      "width": 1122,
+      "height": 1402,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 390900
+    },
+    {
+      "id": "27-B",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 378352
+    },
+    {
+      "id": "27-C",
+      "width": 1254,
+      "height": 1254,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 406016
+    },
+    {
+      "id": "28-A",
+      "width": 1055,
+      "height": 1491,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 117968
+    },
+    {
+      "id": "28-B",
+      "width": 1491,
+      "height": 1055,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 123610
+    },
+    {
+      "id": "28-C",
+      "width": 1122,
+      "height": 1402,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 126272
+    },
+    {
+      "id": "29-A",
+      "width": 1055,
+      "height": 1491,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 217918
+    },
+    {
+      "id": "29-B",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 240644
+    },
+    {
+      "id": "29-C",
+      "width": 1122,
+      "height": 1402,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 290732
+    },
+    {
+      "id": "30-A",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 255942
+    },
+    {
+      "id": "30-B",
+      "width": 1254,
+      "height": 1254,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 276132
+    },
+    {
+      "id": "30-C",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 253418
+    },
+    {
+      "id": "31-A",
+      "width": 1254,
+      "height": 1254,
+      "format": "WEBP",
+      "mode": "RGBA",
+      "bytes": 236710
+    },
+    {
+      "id": "31-B",
+      "width": 1254,
+      "height": 1254,
+      "format": "WEBP",
+      "mode": "RGBA",
+      "bytes": 293542
+    },
+    {
+      "id": "31-C",
+      "width": 1254,
+      "height": 1254,
+      "format": "WEBP",
+      "mode": "RGBA",
+      "bytes": 188570
+    },
+    {
+      "id": "32-A",
+      "width": 1055,
+      "height": 1491,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 410830
+    },
+    {
+      "id": "32-B",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 489462
+    },
+    {
+      "id": "32-C",
+      "width": 1055,
+      "height": 1491,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 414134
+    },
+    {
+      "id": "33-A",
+      "width": 1254,
+      "height": 1254,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 248460
+    },
+    {
+      "id": "33-B",
+      "width": 1254,
+      "height": 1254,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 295576
+    },
+    {
+      "id": "33-C",
+      "width": 1254,
+      "height": 1254,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 371954
+    },
+    {
+      "id": "34-A",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 556632
+    },
+    {
+      "id": "34-B",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 384494
+    },
+    {
+      "id": "34-C",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 372848
+    },
+    {
+      "id": "35-A",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 339942
+    },
+    {
+      "id": "35-B",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 269234
+    },
+    {
+      "id": "35-C",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 369224
+    },
+    {
+      "id": "36-A",
+      "width": 1054,
+      "height": 1492,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 261464
+    },
+    {
+      "id": "36-B",
+      "width": 1055,
+      "height": 1491,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 295444
+    },
+    {
+      "id": "36-C",
+      "width": 1054,
+      "height": 1492,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 305340
+    },
+    {
+      "id": "37-A",
+      "width": 1054,
+      "height": 1492,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 191518
+    },
+    {
+      "id": "37-B",
+      "width": 1054,
+      "height": 1492,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 116538
+    },
+    {
+      "id": "37-C",
+      "width": 1055,
+      "height": 1491,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 175158
+    },
+    {
+      "id": "38-A",
+      "width": 1122,
+      "height": 1402,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 96952
+    },
+    {
+      "id": "38-B",
+      "width": 1254,
+      "height": 1254,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 149214
+    },
+    {
+      "id": "38-C",
+      "width": 1122,
+      "height": 1402,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 119042
+    },
+    {
+      "id": "39-A",
+      "width": 1122,
+      "height": 1402,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 115874
+    },
+    {
+      "id": "39-B",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 190640
+    },
+    {
+      "id": "39-C",
+      "width": 1122,
+      "height": 1402,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 110488
+    },
+    {
+      "id": "40-A",
+      "width": 1122,
+      "height": 1402,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 169064
+    },
+    {
+      "id": "40-B",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 127416
+    },
+    {
+      "id": "40-C",
+      "width": 1122,
+      "height": 1402,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 195878
+    },
+    {
+      "id": "41-A",
+      "width": 1122,
+      "height": 1402,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 148098
+    },
+    {
+      "id": "41-B",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 153646
+    },
+    {
+      "id": "41-C",
+      "width": 1122,
+      "height": 1402,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 162244
+    },
+    {
+      "id": "42-A",
+      "width": 1122,
+      "height": 1402,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 208562
+    },
+    {
+      "id": "42-B",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 179322
+    },
+    {
+      "id": "42-C",
+      "width": 1122,
+      "height": 1402,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 121612
+    },
+    {
+      "id": "43-A",
+      "width": 1448,
+      "height": 1086,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 212502
+    },
+    {
+      "id": "43-B",
+      "width": 1122,
+      "height": 1402,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 158564
+    },
+    {
+      "id": "43-C",
+      "width": 1448,
+      "height": 1086,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 309242
+    },
+    {
+      "id": "44-A",
+      "width": 1122,
+      "height": 1402,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 367844
+    },
+    {
+      "id": "44-B",
+      "width": 1086,
+      "height": 1448,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 267714
+    },
+    {
+      "id": "44-C",
+      "width": 1254,
+      "height": 1254,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 321184
+    },
+    {
+      "id": "45-A",
+      "width": 1055,
+      "height": 1491,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 177266
+    },
+    {
+      "id": "45-B",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 146254
+    },
+    {
+      "id": "45-C",
+      "width": 1055,
+      "height": 1491,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 312832
+    },
+    {
+      "id": "46-A",
+      "width": 1054,
+      "height": 1492,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 227608
+    },
+    {
+      "id": "46-B",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 150052
+    },
+    {
+      "id": "46-C",
+      "width": 1055,
+      "height": 1491,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 122208
+    },
+    {
+      "id": "47-A",
+      "width": 1254,
+      "height": 1254,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 95412
+    },
+    {
+      "id": "47-B",
+      "width": 1536,
+      "height": 1024,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 120264
+    },
+    {
+      "id": "47-C",
+      "width": 1254,
+      "height": 1254,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 205172
+    },
+    {
+      "id": "48-A",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 178852
+    },
+    {
+      "id": "48-B",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 136246
+    },
+    {
+      "id": "48-C",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 226114
+    },
+    {
+      "id": "49-A",
+      "width": 1122,
+      "height": 1402,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 191724
+    },
+    {
+      "id": "49-B",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 129304
+    },
+    {
+      "id": "49-C",
+      "width": 1122,
+      "height": 1402,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 161206
+    },
+    {
+      "id": "50-A",
+      "width": 1254,
+      "height": 1254,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 250798
+    },
+    {
+      "id": "50-B",
+      "width": 1024,
+      "height": 1536,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 109164
+    },
+    {
+      "id": "50-C",
+      "width": 1254,
+      "height": 1254,
+      "format": "WEBP",
+      "mode": "RGB",
+      "bytes": 303208
+    }
+  ]
+}

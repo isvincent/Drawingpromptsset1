@@ -1,0 +1,163 @@
+{
+  "timestamp": "2026-10-07T10:47:17.685Z",
+  "checks": [
+    {
+      "name": "150 records and 50 items",
+      "passed": true
+    },
+    {
+      "name": "12 cards on first page",
+      "passed": true
+    },
+    {
+      "name": "13 pages",
+      "passed": true
+    },
+    {
+      "name": "next page starts 05-A",
+      "passed": true
+    },
+    {
+      "name": "full text search",
+      "passed": true
+    },
+    {
+      "name": "empty state",
+      "passed": true
+    },
+    {
+      "name": "category count 15",
+      "passed": true
+    },
+    {
+      "name": "category and variant intersect 5",
+      "passed": true
+    },
+    {
+      "name": "favorite count",
+      "passed": true
+    },
+    {
+      "name": "favorites filter",
+      "passed": true
+    },
+    {
+      "name": "favorites persist after reload",
+      "passed": true
+    },
+    {
+      "name": "clipboard exact original",
+      "passed": true
+    },
+    {
+      "name": "fallback clipboard exact original",
+      "passed": true
+    },
+    {
+      "name": "detail dialog opens",
+      "passed": true
+    },
+    {
+      "name": "custom fields and common instruction",
+      "passed": true
+    },
+    {
+      "name": "Escape closes dialog",
+      "passed": true
+    },
+    {
+      "name": "oscillator sound produced",
+      "passed": true
+    },
+    {
+      "name": "sound enables",
+      "passed": true
+    },
+    {
+      "name": "random opens valid detail",
+      "passed": true
+    },
+    {
+      "name": "guide opens",
+      "passed": true
+    },
+    {
+      "name": "formula copy",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 390 large=false",
+      "passed": true
+    },
+    {
+      "name": "detail fits 390 large=false",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 390 large=true",
+      "passed": true
+    },
+    {
+      "name": "detail fits 390 large=true",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 768 large=false",
+      "passed": true
+    },
+    {
+      "name": "detail fits 768 large=false",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 768 large=true",
+      "passed": true
+    },
+    {
+      "name": "detail fits 768 large=true",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 1440 large=false",
+      "passed": true
+    },
+    {
+      "name": "detail fits 1440 large=false",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow 1440 large=true",
+      "passed": true
+    },
+    {
+      "name": "detail fits 1440 large=true",
+      "passed": true
+    },
+    {
+      "name": "200 percent text no overflow mobile with filtered count",
+      "passed": true
+    },
+    {
+      "name": "200 percent text detail no overflow",
+      "passed": true
+    },
+    {
+      "name": "reduced motion supported",
+      "passed": true
+    },
+    {
+      "name": "all 150 local example images",
+      "passed": true,
+      "missing": []
+    },
+    {
+      "name": "all 150 images decode in browser",
+      "passed": true
+    },
+    {
+      "name": "no runtime JS errors",
+      "passed": true
+    }
+  ],
+  "errors": []
+}
